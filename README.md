@@ -2,7 +2,7 @@
 
 This is where we keep track of AI pilots happening across the org — the templates, the docs, all of it. You don't need to be an engineer to use anything here; if you can fill out a form, you're set.
 
-Here's how it works in practice: your team opens an **Adoption tracking** issue when you kick off a pilot, then checks back in with **Adoption update** issues as things progress. Every Monday, a little automation opens a review issue rounding up what's still open, just so nothing falls through the cracks. Everything lives in GitHub Issues — no extra spreadsheet or tracker to remember to update.
+Here's how it works in practice: your team opens an [**Adoption tracking**](.github/ISSUE_TEMPLATE/adoption-tracking.yml) issue when you kick off a pilot, then checks back in with [**Adoption update**](.github/ISSUE_TEMPLATE/adoption-update.md) issues as things progress. Every Monday, a little automation opens a review issue rounding up what's still open, just so nothing falls through the cracks. Everything lives in GitHub Issues — no extra spreadsheet or tracker to remember to update.
 
 ## What's here
 
