@@ -1,0 +1,79 @@
+name: Adoption tracking
+description: Track a team's adoption of an AI enablement capability.
+title: "[Adoption]: "
+labels:
+  - adoption
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to record an adoption effort, its outcomes, and any support needed.
+
+  - type: input
+    id: team
+    attributes:
+      label: Team or organization
+      description: Which team or organization is adopting this capability?
+      placeholder: e.g., Platform Engineering
+    validations:
+      required: true
+
+  - type: input
+    id: capability
+    attributes:
+      label: Capability being adopted
+      description: What AI capability, tool, or workflow is being introduced?
+      placeholder: e.g., GitHub Copilot code review
+    validations:
+      required: true
+
+  - type: dropdown
+    id: adoption-stage
+    attributes:
+      label: Adoption stage
+      options:
+        - Exploring
+        - Planning
+        - Piloting
+        - Rolling out
+        - Adopted
+        - Paused
+    validations:
+      required: true
+
+  - type: textarea
+    id: use-case
+    attributes:
+      label: Intended use case
+      description: Describe the problem this adoption effort should solve.
+    validations:
+      required: true
+
+  - type: textarea
+    id: success-measures
+    attributes:
+      label: Success measures
+      description: List the outcomes or metrics that will indicate successful adoption.
+      placeholder: |
+        - Reduce time spent on ...
+        - Increase ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: progress
+    attributes:
+      label: Progress and outcomes
+      description: Record milestones, results, and learnings to date.
+
+  - type: textarea
+    id: blockers
+    attributes:
+      label: Blockers or support needed
+      description: Identify risks, dependencies, or help needed from the enablement team.
+
+  - type: textarea
+    id: next-steps
+    attributes:
+      label: Next steps
+      description: List the next actions and their owners.
