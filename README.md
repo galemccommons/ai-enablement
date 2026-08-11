@@ -1,8 +1,8 @@
 # AI Enablement
 
-AI-enablement documentation, GitHub issue templates, and reusable Markdown templates for teams piloting AI workflows. Written for a non-engineer audience — no coding experience needed.
+This is where we keep track of AI pilots happening across the org — the templates, the docs, all of it. You don't need to be an engineer to use anything here; if you can fill out a form, you're set.
 
-A team opens an **Adoption tracking** issue to start a pilot, then posts recurring **Adoption update** issues to report progress. Every Monday, an automated workflow opens a review issue listing open pilots so owners remember to check in. All data lives in GitHub Issues — no external tracker or spreadsheet required.
+Here's how it works in practice: your team opens an **Adoption tracking** issue when you kick off a pilot, then checks back in with **Adoption update** issues as things progress. Every Monday, a little automation opens a review issue rounding up what's still open, just so nothing falls through the cracks. Everything lives in GitHub Issues — no extra spreadsheet or tracker to remember to update.
 
 ## What's here
 
