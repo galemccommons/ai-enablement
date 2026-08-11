@@ -2,6 +2,17 @@
 
 This repository contains AI-enablement documentation, GitHub issue templates, and reusable Markdown templates for teams piloting AI workflows. It is written for a non-engineer audience — no coding experience is needed to use or contribute to it.
 
+## Overview
+
+Teams across the organization are exploring, piloting, and rolling out AI capabilities (tools, workflows, and integrations). This repository is the shared home for that work: a lightweight, low-friction way to propose an idea, track a pilot's progress, and report on adoption over time — all using standard GitHub issues, so no separate tracker or spreadsheet is required.
+
+## Purpose
+
+- **Reduce friction for non-engineers.** Anyone can propose or report on an AI pilot using a short, guided issue form — no special tools or technical background needed.
+- **Standardize how adoption is tracked.** A consistent set of fields (workflow, owner, launch date, adoption percentage, blockers, next step) makes it easy to compare pilots and spot ones that need support.
+- **Keep reporting lightweight.** Templates are designed to take under five minutes to complete, so regular check-ins don't become a burden.
+- **Automate the reminder, not the decision-making.** A scheduled workflow surfaces open pilots needing an update each week; humans still decide what to report.
+
 ## What's here
 
 - **`.github/ISSUE_TEMPLATE/`** — Issue forms and templates for reporting on AI pilots:
