@@ -2,9 +2,14 @@
 name: AI Workflow Pilot Adoption Update
 about: Report progress on an AI workflow pilot
 title: "[Adoption Update] "
-labels: ""
+labels:
+  - adoption-update
 assignees: ""
 ---
+
+## Related adoption issue
+
+<!-- Link the "Adoption tracking" issue this update is for, e.g. #12. -->
 
 ## Workflow name
 
