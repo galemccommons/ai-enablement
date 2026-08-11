@@ -10,6 +10,10 @@ Open an issue to share an idea, report a problem, or ask a question. Describe wh
 
 If you or someone on your team can make the change, open a pull request (PR) linked to the related issue. Briefly explain what changed and include any context a reviewer will need. We welcome small, focused PRs and may ask follow-up questions before merging.
 
+## How issues get triaged
+
+A maintainer will acknowledge seen issues with a comment, label, or question. Expect this within five business days; complex issues may take longer, but we will share updates.
+
 ## Response time
 
 We aim to acknowledge new issues and pull requests within five business days. More complex requests may take longer to review, but we will share an update when possible.
