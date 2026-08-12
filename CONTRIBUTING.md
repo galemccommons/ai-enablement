@@ -18,4 +18,4 @@ A maintainer will acknowledge seen issues with a comment, label, or question. Ex
 
 We aim to acknowledge new issues and pull requests within five business days. More complex requests may take longer to review, but we will share an update when possible.
 
-**Code of Conduct:** See the repository's future `CODE_OF_CONDUCT.md` for participation expectations.
+**Code of Conduct:** See [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) for participation expectations.
